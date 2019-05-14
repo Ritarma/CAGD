@@ -1,0 +1,62 @@
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.Form1.resources
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.Properties.Resources.resources
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.csproj.GenerateResource.Cache
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\blankTest.exe
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\blankTest.pdb
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\SharpGL.dll
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.exe
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.pdb
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\obj\x86\Debug\blankTest.csprojResolveAssemblyReference.cache
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\blankTest.exe.config
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\SharpGL.WinForms.dll
+C:\Users\49610_000\Desktop\softPlc\openGL学习\sharpGLTest\test1\blankTest\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\49610_000\Desktop\blankTest\bin\Debug\blankTest.exe.config
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.exe
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.pdb
+C:\Users\49610_000\Desktop\blankTest\bin\Debug\blankTest.exe
+C:\Users\49610_000\Desktop\blankTest\bin\Debug\blankTest.pdb
+C:\Users\49610_000\Desktop\blankTest\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.csprojResolveAssemblyReference.cache
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.Form1.resources
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.Properties.Resources.resources
+C:\Users\49610_000\Desktop\blankTest\obj\x86\Debug\blankTest.csproj.GenerateResource.Cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\blankTest.exe.config
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.exe
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.pdb
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\blankTest.exe
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\blankTest.pdb
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.Form1.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.Properties.Resources.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.csproj.GenerateResource.Cache
+C:\software\blankTest\bin\Debug\blankTest.exe.config
+C:\software\blankTest\obj\x86\Debug\blankTest.exe
+C:\software\blankTest\obj\x86\Debug\blankTest.pdb
+C:\software\blankTest\bin\Debug\blankTest.exe
+C:\software\blankTest\bin\Debug\blankTest.pdb
+C:\software\blankTest\bin\Debug\DevComponents.DotNetBar2.xml
+C:\software\blankTest\obj\x86\Debug\blankTest.csprojResolveAssemblyReference.cache
+C:\software\blankTest\obj\x86\Debug\blankTest.Form1.resources
+C:\software\blankTest\obj\x86\Debug\blankTest.Properties.Resources.resources
+C:\software\blankTest\obj\x86\Debug\blankTest.csproj.GenerateResource.Cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\bin\Debug\blankTest.exe.config
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\bin\Debug\blankTest.exe
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\bin\Debug\blankTest.pdb
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\bin\Debug\DevComponents.DotNetBar2.dll
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\bin\Debug\DevComponents.DotNetBar2.xml
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.csprojAssemblyReference.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.Form1.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.Properties.Resources.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.csproj.GenerateResource.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.csproj.CoreCompileInputs.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.csproj.CopyComplete
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.exe
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\B-spine drawing\blankTest\obj\x86\Debug\blankTest.pdb
+K:\blankTest\bin\Debug\blankTest.exe.config
+K:\blankTest\obj\x86\Debug\blankTest.exe
+K:\blankTest\obj\x86\Debug\blankTest.pdb
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\DevComponents.DotNetBar2.dll
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\bin\Debug\DevComponents.DotNetBar2.xml
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.csprojAssemblyReference.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.csproj.CoreCompileInputs.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\blankTest\obj\x86\Debug\blankTest.csproj.CopyComplete

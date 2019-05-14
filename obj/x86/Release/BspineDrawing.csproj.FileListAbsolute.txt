@@ -1,0 +1,4 @@
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Release\BspineDrawing.Form1.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Release\blankTest.Properties.Resources.resources
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Release\BspineDrawing.csproj.GenerateResource.cache
+E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Release\BspineDrawing.csproj.CoreCompileInputs.cache
