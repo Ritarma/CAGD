@@ -22,3 +22,12 @@ E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Debug\
 E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Debug\blankTest.Properties.Resources.resources
 E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Debug\BspineDrawing.csproj.GenerateResource.Cache
 E:\研究生学习\CAGD\寒假作业\SharpGl参考\Bspine-drawing\obj\x86\Debug\BspineDrawing.csprojResolveAssemblyReference.cache
+H:\GIT\B-SpineDrawing\CAGD\bin\Debug\blankTest.exe.config
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\blankTest.exe
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\blankTest.pdb
+H:\GIT\B-SpineDrawing\CAGD\bin\Debug\blankTest.exe
+H:\GIT\B-SpineDrawing\CAGD\bin\Debug\blankTest.pdb
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\BspineDrawing.csprojResolveAssemblyReference.cache
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\BspineDrawing.Form1.resources
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\blankTest.Properties.Resources.resources
+H:\GIT\B-SpineDrawing\CAGD\obj\x86\Debug\BspineDrawing.csproj.GenerateResource.Cache

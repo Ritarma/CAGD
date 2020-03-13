@@ -750,6 +750,7 @@ namespace BspineDrawing
         }
         private void GenChartofbasefunc(int num, List<Point[]> data, string uORv)//生成基函数
         {
+            if(data == null || data.Count == 0) return;
             chartControl1.ChartPanel.ChartContainers.Clear();           
             chartControl1.ChartPanel.Legend.Visible = false;
             ChartXy ChartBasefunc = new ChartXy();            
